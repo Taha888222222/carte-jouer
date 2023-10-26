@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1 className='rt'>football players: </h1>
-    <Playerslist/>
+      <Playerslist />
     </div>
   );
 }

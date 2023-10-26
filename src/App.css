@@ -1,3 +1,7 @@
 .rt{
     color: blue;
 }
+.yl{
+    display: flex;
+    justify-content: space-between;
+}
